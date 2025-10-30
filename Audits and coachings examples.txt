@@ -1,0 +1,835 @@
+Audits and coachings :
+
+
+Marcia 
+681286698924
+Home RET LAPSE 
+Call Context
+The customer contacted us to lapse their renewal after finding a cheaper quote elsewhere. Despite this, they were open to further discussion.
+What Went Well
+•	You handled the customer’s request effectively, ensuring they left the call with the outcome they were seeking.
+•	You respected the customer’s time by not insisting on policy details and instead offering an alternative method to locate the policy number. This helped streamline the process and avoid unnecessary delays.
+•	DPA was completed efficiently, demonstrating your ability to adapt and maintain momentum during the call.
+•	You set expectations clearly, guiding the customer through each step of the process.
+•	Your probing was strong, helping uncover relevant details.
+•	You used empathetic and positive language throughout the call, including phrases like “I’m so sorry to hear this,” “No problem, take your time,” “Perfect,” and “Wonderful.” This helped build rapport and made the customer feel supported.
+•	You personalized the interaction by using the customer’s name early in the call.
+•	Benefit stacking was well executed, helping reinforce the value of our offering.
+Development Opportunities
+•	Open-ended questioning during fact-finding was limited. Incorporating more open-ended questions can help uncover richer insights and better position our offering against competitors.
+•	When completing risk data checks, you primarily confirmed existing renewal details. To strengthen your approach, explain any discrepancies between our quote and the rival quote, and clarify why you're asking specific questions. This adds context and builds trust.
+•	You missed confirming the total number of rooms during RDC. While you asked about reception rooms, it’s important to verify the total room count to ensure accuracy and alignment with the rival quote.
+•	There were moments where you spoke over the customer (e.g., at 04:56 and 06:27). While this had minimal impact, allowing a brief pause before responding will help ensure the customer feels fully heard.
+•	Cover /Benefits could have been explained more thoroughly. Listing what is included in the policy helps reinforce value and may influence the customer’s decision.
+•	There was a period of silence around 05:17 that wasn’t clearly signposted. While you used phrases like “Let’s see” and “Let’s take a look,” consider being more explicit by saying something like:
+“I’m just going to review your price now. I may go quiet for a moment while I do that, but I’m still with you.”
+This helps manage expectations and keeps the customer informed, especially since they can’t see what’s happening on your screen.
+
+Marcia's feedback : 
+
+
+Positive Pointers
+•	As someone who used to struggle a lot with tone and attitude on calls, this has improved on this call.
+•	Customer didn’t know their policy number I used alternative DPA verification instead and didn’t waste customer’s time.
+•	I set expectations for the customer by reading helpful statements and informing him on the process before I ask any questions.
+•	I used words like perfect and thank you and wonderful at some point I told customer “ No problem, take your time”
+•	I read the summary statement and benefit stacked.
+ 
+Development Opportunities and Action Plan
+•	There were points of silence while I was filling in risk data check, moving forward I will fill the silence with setting expectations.
+•	Moving forward I will ask open ended questions to allow the customer to give me as much info about rival insurers as possible.
+•	This markdown was for RDC information, moving forward I will ask customer about all the information on RDC in order not to miss anything and also to ensure we quoting customer correctly.
+
+
+VOC : 
+
+Call Context
+The customer called after receiving a letter stating that we did not have their vehicle registration on file. They also expressed ongoing frustrations with Hastings Direct.
+What Went Well
+•	Greeting and opening were warm and professional. Marcia demonstrated a strong willingness to assist from the start.
+•	She showed genuine empathy, acknowledging the customer’s poor experience and reassuring them with:
+“I’m so sorry you haven’t had a good experience with us. I’ll make sure we leave this call on a good note.”
+This helped build trust and was clearly appreciated by the customer.
+•	Marcia took time to review the policy notes, ensuring she was well-informed before addressing the issue.
+•	She verified the vehicle registration and details, confirming everything was in order.
+•	Marcia provided reassurance and clarity, and proactively offered to send documentation to the customer to confirm resolution.
+Conclusion
+The issue appeared to stem from a system-related binding error that temporarily affected the vehicle registration. The system seems to have corrected itself, and there was no fault on Marcia’s part. She handled the call with professionalism, empathy, and efficiency.
+
+Thabiso - from here 
+https://uk1.niceincontact.com/player/#/cxone-player/segments/8c749112-f41f-489d-82b7-21169a288a2c
+CS query BPA 
+03 Sep 2025 16:20:57
+681986042241
+
+
+Call Summary
+The customer called in after being charged a deposit twice, possibly due to an internet issue.
+What Went Well
+•	DPA was completed efficiently, ensuring a smooth start to the call.
+•	You handled the customer’s request effectively, resulting in a satisfactory resolution. Great job!
+•	You repeated your introduction when you noticed the customer couldn’t hear you, showing attentiveness and adaptability.
+•	You showed genuine empathy by acknowledging the inconvenience with:
+“I’m really sorry for that inconvenience.”
+This helped build trust and showed the customer you cared.
+•	You demonstrated a strong willingness to assist, saying:
+“Let me see what could have happened.”
+•	Great use of verbal nods and power words like “Perfect” and “Thank you so much,” which helped maintain a positive tone.
+•	You ended the call warmly with:
+“I appreciate you,”
+leaving a lasting positive impression.
+Development Opportunities
+•	There was a moment of silence after the customer confirmed their full name, and again just before placing them on hold. These pauses weren’t signposted, which can leave the customer uncertain about what’s happening.
+•	The issue could have been resolved more efficiently by asking your TL to place the funds on unapplied for refund purposes, rather than escalating to seniors.
+•	You didn’t wrap up the call by checking if the customer had any further questions or needed clarification. This is important to ensure customer understanding and confidence in the next steps.
+•	While you did inform the customer of the SLA for the refund, you didn’t specify where the refund would be sent (e.g., to their card or bank account). This detail is important for transparency and reassurance.
+Action Plan
+1.	Signpost silence clearly by saying something like:
+“I’m just checking a few things on my side, I may go quiet for a moment but I’m still with you.”
+2.	Use the correct escalation path—for billing issues, consult your TL first before escalating to seniors unless absolutely necessary.
+3.	Always wrap up the call by asking:
+“Have you got any questions or is there anything else I can help you with?”
+This ensures the customer feels heard and informed.
+4.	Confirm refund destination by stating:
+“The refund will be sent to your original payment method,”
+or specify the account/card if known.
+
+
+Thando monitor : RFI 
+03 Sep 2025 14:38:07
+https://uk1.niceincontact.com/player/#/cxone-player/segments/8468113d-c63f-4925-ab1e-513ba49eaecb
+681985835627
+Car query 
+Call Summary
+The customer contacted us to cancel their policy after scrapping their vehicle.
+What Went Well
+•	You took ownership of the customer’s journey, showing a strong willingness to assist with:
+“Let’s go ahead and have a look at that for you.”
+This built trust and made the customer feel supported.
+•	You quickly understood the customer’s needs and resolved their request efficiently, ensuring a positive outcome. Great job!
+•	You showed empathy early in the call, saying:
+“I’m really sorry to hear that, sir.”
+This helped build rapport and demonstrated care.
+•	You used verbal nods (e.g., “mmhmms”) effectively, allowing the customer to speak freely and showing active listening.
+•	Great use of power words like “Appreciate that” and “Thank you,” which added warmth and professionalism.
+•	You avoided silent gaps, maintaining a smooth flow throughout the call.
+•	You clearly mentioned the cancellation fee and the SLA for the refund, which helped manage expectations.
+•	Your telephone manner was friendly and professional, and your communication was polite throughout. Well done!
+Development Opportunities
+•	The script states: “If there’s an amount to pay…” but in this case, it was a refund. Please ensure the correct phrasing is used to avoid confusion.
+•	You confirmed the incorrect card for the refund. Always verify the correct payment method before processing.
+•	Avoid saying “I have two cards stored”—this may raise unnecessary concerns. Instead, confirm the card being used without referencing others.
+•	When asking for information, thank the customer rather than asking “What is your policy number?” which may sound interrogative.
+•	There was a brief moment where you spoke over the customer. While minor, be mindful and apologize if it happens to maintain a respectful tone.
+•	When navigating the user guide, ensure you click the final option to reach the wrap-up page correctly.
+•	You did not inform the customer to remove their YouDrive tab if applicable. This is important for YouDrive policies and should be mentioned as per the user guide.
+•	You missed key wrap-up statements, including:
+•	Informing the customer that their No Claims Discount proof is on page 2 of the cancellation document, available via MyAccount within 24 hours.
+•	Mentioning that they can claim back the £45 cancellation fee if they take out a new motor policy within 30 days.
+•	Saying: “We’re sorry to see you go and hope to welcome you back in the future. Thank you for insuring with us.”
+This adds empathy and leaves a positive final impression.
+Action Plan
+•	Use correct phrasing based on the refund or payment scenario—review the script carefully.
+•	Verify and confirm the correct card for refunds without referencing multiple stored cards.
+•	Thank customers when requesting information to maintain a courteous tone.
+•	Be mindful of interruptions—pause slightly before responding and apologize if you speak over the customer.
+•	Follow the user guide fully, including the final wrap-up steps to ensure all necessary information is shared.
+•	For YouDrive policies, always remind customers to remove and dispose of the tab as per their documents.
+•	Include all wrap-up statements to ensure the customer is fully informed and the call meets one-call resolution standards.
+
+
+Lefa call : 
+
+02 Sep 2025 08:30:40
+681873719576
+Car Canx 
+
+You used verbal nods effectively, which showed active listening and helped reassure the customer that you were engaged. Keep it up
+
+When the customer spoke over you, you respectfully paused and allowed them to finish. This shows great customer etiquette and respect for their voice—keep it up!
+Despite the customer’s uncertainty and confusion, you probed thoroughly to understand their concern and ensured clarity before proceeding. You explained the situation clearly and provided a detailed breakdown of the cancellation quote. Excellent work!
+
+Positive language such as “no problem” and “thank you so much” added a warm and professional tone to the call. Keep it up
+
+Addressing the customer by their first name added a personal touch and helped build rapport. Great work
+
+Your tone remained sincere and respectful throughout the call, which contributed to a positive customer experience. Keep it up
+
+It would have been ideal to express empathy earlier in the call, especially given the sensitive nature of a policy cancellation. While the customer’s concern wasn’t immediately clear, you did empathize appropriately at the end by saying:
+
+“We’re sorry to see you go and hope to welcome you back as a customer in the future. Thank you for insuring with us.” Moving forward ensure this is highlighted once the need has been established. ( Comment )
+
+There was a crackling line at the start of the call due to a system issue. However, you handled this well by repeating yourself to ensure the customer could hear you clearly. Great job adapting to the situation!
+
+There was a brief moment of silence (under 10 seconds), and while you did inform the customer not to mind it, going forward, try to pre-emptively prompt the customer before any silence occurs. This helps avoid confusion or concern.(Comment)
+
+Cyril : 
+02 Sep 2025 09:58:00
+681873873611
+Car canx 
+
+Your use of verbal nods helped reassure the customer that you were engaged and attentive. This contributes to a more comfortable and confident customer experience. Keep it up
+
+When the customer asked about transferring their No Claim Discount  to another vehicle, you weren’t sure of the answer but took the initiative to confirm with your manager. Going forward, please ensure you fully understand the customer’s query before responding. This will help you provide more confident and accurate information upfront.
+
+(Note: This is not being marked down as the customer did not express any frustration and left the call with the correct outcome.)
+
+You responded with empathy and a helpful attitude: “No worries, I’ll definitely assist you and I’m really sorry to hear that.” This set a warm and supportive tone for the call. Keep it up
+
+Great use of positive language throughout the interaction. Words like “please,” “thank you very much,” and “perfect” added a friendly and professional feel to the conversation. Keep it up
+
+Excellent job keeping the customer informed throughout the process. You clearly explained what you were doing at each step, which helps build trust and transparency. Keep it up!
+
+
+Maps : 
+27 Aug 2025 11:38:51
+681377768868
+Car mta 
+
+Call Summary
+The call involved assisting a customer with a query related to a missed direct debit and refund. The interaction included both positive elements and areas for improvement.
+What Went Well
+•	Your use of verbal nods helped reassure the customer that you were engaged and attentive, contributing to a more comfortable and confident experience.
+•	You clearly explained the additional premium with and without interest, aligning with our regulatory obligation for financial transparency. Excellent work!
+•	You followed all required scripting accurately, ensuring consistency and compliance.
+•	After identifying the reason for the call, you responded with a positive and helpful tone, saying:
+“Not to worry, I’ll have you assisted with that shortly.”
+This helped set a reassuring tone early in the call.
+•	You ended the call warmly by saying:
+“Enjoy the rest of your day,”
+which made the customer feel valued. Well done!
+Development Opportunities
+•	At 02:05, you spoke over the customer while they were responding. Although there was no negative impact, it’s important to wait at least 2 seconds after a customer finishes speaking to avoid interruptions. If it happens, acknowledge and apologize to maintain rapport.
+Business Impact (BI)
+•	During DPA, you repeated questions unnecessarily (e.g., asking for the date of birth again after confirming contact details). This can cause confusion and make the customer feel unheard.
+Customer Impact (CI)
+•	The call lacked warmth and conversational flow. Using polite phrases like “please” and “thank you” more consistently can significantly improve tone and customer perception.
+Customer Impact (CI)
+•	You missed opportunities to guide the customer through terminology and expectations (e.g., explaining marital status or terms like “partnered civil”). This led to a lack of ownership in the call.
+Customer Impact (CI)
+•	You did not mention that when a missed direct debit (DD) occurs, the system will attempt a DD represent before charging the card on file.
+Comment Only
+Action Plan
+1.	Pause before responding: Wait at least 2 seconds after the customer finishes speaking to avoid interruptions. If you do speak over them, acknowledge it and apologize.
+2.	Avoid repetition: Take notes during DPA and quote processes to prevent asking for the same information twice. This helps maintain customer confidence.
+3.	Use polite language consistently: Incorporate phrases like “please,” “thank you,” and “I appreciate that” throughout the call to enhance warmth and professionalism.
+4.	Guide the customer clearly:
+o	Set expectations by saying: “I’m going to ask a few details to ensure an accurate quote.”
+o	Use resources like Spark to explain terms (e.g., “partnered civil”).
+o	Take ownership by clarifying how we record marital status based on the customer’s living situation.
+5.	Clarify DD process: When applicable, inform the customer that the system will first attempt a DD represent before charging the card on file.
+Katlego : 
+27 Aug 2025 11:26:29
+681377706714
+Car mta 
+
+You opened the call with a warm and professional greeting, which set a positive tone right from the start. Your willingness to assist was clearly evident and appreciated.
+Your use of positive reinforcement through power words like “brilliant” and “perfect” added a cheerful and engaging tone to the interaction. This kind of language helps create a pleasant customer experience.
+
+Throughout the call, you remained sincere and respectful, which reflects well on your professionalism. Great work—keep it up!
+You did a great job ensuring alignment with the customer, especially considering it was a transferred call. This helped maintain continuity and reassured the customer that their query was being handled effectively.
+
+I particularly liked how you managed expectations when the system was taking time to load. Communicating delays proactively is key to maintaining trust, and you handled it well.
+
+It was also excellent that you provided the customer with the SLA for when they can expect to receive their documents. This kind of clarity is essential for managing expectations.
+
+Katlego AHT agreement : 
+With the intend of lowering the AHT to the expected time adherence, I will ensure that i look into managing Hold and Wrap. Hold  will be used only when necessary e.g contacting TTT & Seniors , Admin requests and the rare occasions where i will need TL assistance (understanding that this will only be rare occasions and not every call). Wrap on the other hand , i will ensure that all documentation sending , note leaving, payment hold placing, replacement tab requesting is done while the customer is still on the call to avoid high wrap. We should be able to see a drop in my AHT once these have been adhered to.
+
+Ongie coaching : 
+
+681737375247
+home rtu
+30 Aug 2025 12:44:09
+
+ 
+Call Summary
+The customer contacted us to discuss their renewal after shopping around for alternative quotes.
+ 
+What Went Well
+•	Greeting and opening were excellent. Ongie showed a strong willingness to assist, saying:
+“Yeah, I can surely assist with that.”
+This helped set a positive tone from the start.
+•	Great use of power words like “please,” “thank you,” and “no problem,” which added warmth and professionalism.
+•	You demonstrated product knowledge by referencing the customer’s HD policy and asking:
+“What other quotes did you find for a similar policy?”
+This showed initiative and helped position our offering effectively.
+•	You highlighted that the revised quote was lower than last year, which added value and built trust.
+•	Benefit stacking was well executed before presenting the price, reinforcing the value of our product.
+•	RDC was completed, contributing to a more accurate and tailored quote.
+ 
+Development Opportunities
+•	Pacing: The call felt slightly rushed. Slowing down your delivery can help the customer absorb information and feel more at ease.
+•	The customer mentioned that the contents cover was the same, but the sum insured differed. This discrepancy wasn’t addressed, which could lead to confusion or missed opportunities to clarify value.
+•	When the customer asked about excess, not all excesses were confirmed. It’s important to provide a full breakdown to ensure transparency.
+•	The date of birth for the insured was incorrect and not corrected during the call. This can affect quote accuracy and compliance.
+•	Ongie expressed concern about being marked down for speaking over the customer. While it’s understandable, it’s important to acknowledge and apologize if it happens to maintain rapport.
+ 
+Action Plan
+1.	Slow down your pace: Take brief pauses between key points to allow the customer time to process information and ask questions.
+2.	Address discrepancies: When the customer mentions differences (e.g., sum insured), acknowledge and clarify them to ensure alignment and build trust.
+3.	Confirm all excesses: When discussing pricing, always include a full breakdown of compulsory, voluntary, and any additional excesses.
+4.	Verify key details: Ensure all personal information, especially the date of birth, is accurate before proceeding with the quote.
+5.	Handle interruptions gracefully: If you speak over the customer, acknowledge it and apologize. This shows respect and helps maintain a positive tone.
+Keitu : 
+Contact ID: 682264883330
+Sep 6, 2025 10:01:56 AM
+Home - RET 
+HP
+
+Here’s a refined version of the feedback with a clear structure and a tailored Action Plan based on the development points:
+ 
+Call Summary
+The customer contacted us to discuss their renewal after noticing a price increase on a previously cheaper online quote.
+ 
+What Went Well
+•	Greeting and opening were strong. You showed great willingness to assist, saying:
+“I can surely assist with that.”
+•	You used verbal nods effectively, which demonstrated active listening and helped the customer feel heard. Keep it up!
+•	You showed empathy by acknowledging the inconvenience:
+“I’m so sorry for the inconvenience.”
+•	Great use of power words like “appreciate that” and “thank you,” which added warmth and professionalism.
+•	You identified that the customer was on an HP policy and provided relevant benefits before discussing the renewal—excellent product knowledge.
+•	When the customer began speaking while you were talking, you paused and allowed them to continue, showing respect and adaptability. Well done!
+•	You highlighted your position in the script to ensure nothing was missed—great attention to detail.
+•	You set clear expectations on what information was needed to match the online price.
+•	You went through the summary statements thoroughly—keep it up!
+•	You correctly updated the voluntary excess and communicated the new excess clearly.
+•	Benefit stacking before presenting the premium was well executed, reinforcing the value of our offering.
+ 
+Development Opportunities
+•	Pacing: The call could have benefited from a slightly slower pace to allow the customer more time to absorb information and respond comfortably.
+•	The customer mentioned that the contents cover was the same, but the sum insured differed. This discrepancy wasn’t addressed and should have been clarified to ensure accuracy and transparency.
+•	When the customer asked about excess, not all types were confirmed. Always provide a full breakdown (e.g., compulsory, voluntary, and any additional excesses).
+•	Be mindful of speaking over the customer. While you handled it well by stopping, it’s important to always allow a brief pause before responding to avoid overlap.
+ 
+Action Plan
+1.	Slow down your pace slightly to improve clarity and customer comfort.
+2.	Address discrepancies in cover details, especially when the customer highlights differences in sum insured or other quote elements.
+3.	Confirm all excesses when discussing pricing—this includes compulsory, voluntary, and any additional excesses to ensure full transparency.
+4.	Continue to pause and listen when the customer begins speaking. If overlap occurs, acknowledge it and apologize to maintain a respectful tone.
+5.	Maintain your strong scripting habits and continue using benefit stacking and empathy to enhance the customer experience.
+
+Thando : 
+CR Name: Thando Skollo
+Date: Sep 6, 2025 9:10:04 AM
+
+
+Call Summary
+The customer contacted us to discuss their renewal after finding a cheaper quote elsewhere.
+ 
+What Went Well
+•	Greeting and opening were excellent. Thando showed great willingness to assist, saying:
+“Yes, let’s definitely look into that for you.”
+•	Great use of verbal nods, which helped reassure the customer that you were actively listening.
+•	Strong use of power words like “perfect,” “thank you,” “no worries,” and “please,” which added warmth and professionalism.
+•	You used helpful statements throughout the call, which contributed to a positive customer experience.
+•	You maintained a friendly and supportive tone, helping the customer feel valued and understood.
+ 
+Development Opportunities
+•	The screen capture did not show evidence of RDC being completed. If you did complete the checks, ensure they are visible and properly documented.
+•	Accidental damage was not addressed during the RDC. This is a key component of the cover and should always be confirmed to ensure accuracy and transparency.
+ 
+Action Plan
+1.	Ensure RDC is fully visible and documented: When completing RDC, make sure all checks are shown clearly on screen, especially during screen capture reviews.
+2.	Always confirm accidental damage: This is a critical part of the cover and must be addressed during RDC to avoid missing key details.
+3.	Continue using verbal nods and power words: These enhance the customer experience and build rapport—keep up the great work!
+4.	Maintain helpful and empathetic language: Your tone and phrasing are strong—continue using statements that show willingness and support.
+ 
+Would you like this version added to a coaching tracker or formatted for performance documentation?
+
+Cyril AHT audit : 
+Here’s a refined version of the Cyril – 26 August call feedback, with a clear structure and a tailored Action Plan based on the development points:
+ 
+Call Summary
+The customer contacted us regarding a payment issue—despite multiple attempts, the payment kept getting refunded, and the policy showed as outstanding.
+ 
+What Went Well
+•	Cyril showed great willingness to assist, reassuring the customer with:
+“I’ll amend this for you.”
+•	He investigated thoroughly, identifying that the payments were not being applied and were automatically refunded.
+•	He communicated clearly after the first hold, explaining that he had spoken to a manager and suggested retrying the payment, which the customer agreed to.
+•	Cyril apologized for the hold and kept the customer informed throughout the process.
+•	He explained the resolution well, stating that due to a technical glitch, the manager approved a write-off of the amount.
+•	The customer was kept updated and the issue was resolved during the call.
+ 
+Development Opportunities
+•	Urgency and efficiency: The second hold lasted 23 minutes and could have been shorter. Cyril consulted two managers instead of one, which led to duplicated effort and extended the hold unnecessarily.
+•	Investigation sequence: He could have checked Worldpay first, placed a hold ticket, and escalated only if the payment didn’t reflect—this would have streamlined the process.
+•	Over-explaining: Cyril repeated the same explanation multiple times. Keeping communication clear and concise helps avoid confusion and improves customer experience.
+ 
+Action Plan
+1.	Streamline escalation: When escalating, consult one manager and provide a clear summary to avoid repeating the issue multiple times.
+2.	Optimize investigation flow: Start with checking payment platforms (e.g., Worldpay), then escalate only if necessary. This reduces hold time and improves resolution speed.
+3.	Keep explanations simple: Avoid repeating the same points. Use clear, concise language to maintain customer engagement and understanding.
+4.	Manage hold times proactively: If a long hold is unavoidable, update the customer periodically and explain what’s being done to resolve the issue.
+ 
+
+
+SRR audits 
+Katlego 
+Call Summary
+Call 1: Bought with us, wanted coffee promo  
+CXone Player
+The customer contacted us to lapse their renewal after encountering issues while trying to purchase a new policy online. They preferred the online quote due to a £20 cashback and a free coffee offer, but noticed the premium had increased from £80 to £95 due to accidental damage being added. Katlego removed the accidental damage cover, and the price reverted. Although Katlego matched the online quote and explained the cashback adjustment, the customer still chose to proceed online to retain the coffee benefit.
+ 
+What Went Well
+•	You showed great empathy, acknowledging the customer’s frustration with the online experience.
+•	You probed effectively to understand why the customer preferred the online quote over the renewal.
+•	Excellent use of verbal nods, which helped maintain engagement and showed active listening.
+•	Your energy and tone were positive and professional throughout the call.
+•	Strong use of power words like “thank you” and “please,” which added warmth and courtesy.
+•	You signposted clearly, guiding the customer through each step of the process.
+•	RDC was completed correctly, ensuring the quote was accurate and aligned with the customer’s expectations.
+•	You explained the voluntary excess change and provided the updated excess amount—great attention to detail.
+•	Benefit stacking before presenting the premium was well executed, reinforcing the value of our offering.
+ 
+Development Opportunity
+•	In this case, there was limited room for negotiation, as the customer was primarily motivated by the coffee voucher benefit, which we couldn’t honor on the renewal. However, your effort to match the price and offer a cashback adjustment was commendable.
+ 
+Action Plan
+1.	Continue probing effectively to understand customer motivations and tailor your approach accordingly.
+2.	Maintain transparency when discussing differences between online and renewal quotes, especially around promotional offers.
+3.	Keep up the strong scripting and benefit stacking—these help reinforce value and build trust.
+4.	Acknowledge limitations confidently: When a benefit (like the coffee voucher) cannot be honored, explain clearly and focus on what can be offered to retain the customer.
+5.	Celebrate effort even when the outcome isn’t retention: You applied all the right steps and maintained professionalism throughout—keep it up!
+
+Call 2: Already bought elsewhere  - 3.40 pounds difference in price 
+
+https://uk1.niceincontact.com/player/#/cxone-player/segments/767efccf-3f25-4423-9a98-4cdb3f408f72
+
+Audit Summary
+The customer contacted us to lapse their renewal after securing a cheaper quote elsewhere. Although Katlego managed to gain initial buy-in, the customer ultimately chose to proceed with lapsing the policy.
+ 
+What Went Well
+•	Katlego maintained great tone and energy throughout the call, creating a positive and engaging experience.
+•	She demonstrated strong empathy from the start, acknowledging the customer’s decision and showing understanding.
+•	Helpful statements were used appropriately, guiding the customer through the process.
+•	She set clear expectations, ensuring the customer understood what she was doing and why.
+•	Fact-finding was thorough, helping to build an accurate quote.
+•	Excellent use of verbal nods, which reinforced active listening and customer engagement.
+•	All required scripting was read, ensuring compliance and consistency.
+ 
+Development Opportunities
+•	The incorrect CLT option was selected—Katlego chose “Price – Competitor” instead of “Already bought elsewhere.” Accurate CLT selection is essential for reporting and insight.
+•	There was a missed opportunity to invalidate the competitor’s quote. The customer was unsure about key details such as reception rooms, percentage of room usage, and property occupancy. These discrepancies could have been used to educate the customer on the importance of accurate information and how it affects pricing.
+•	After presenting the revised quote, Katlego could have continued the conversation to emphasize the value of our offering and clarify the impact of incorrect details.
+•	Benefit stacking was not fully utilized. Given the minimal price difference (£3.40), reinforcing the value of our cover and service could have influenced the customer’s decision.
+
+  Purpose of the Session
+The meeting was a quality review and coaching session focused on analyzing Customer Service (CS) error logs. The goal was to:
+•	Review individual errors flagged in quality assessments.
+•	Understand the nature and impact of these errors.
+•	Discuss how to avoid similar mistakes in future interactions.
+•	Reinforce best practices and expectations for service delivery.
+ 
+  Key Topics Discussed
+1.	Error Log Review Process
+o	Each team member read out their error.
+o	They explained their understanding, the impact on the customer/business, and how to avoid it.
+o	Feedback was required to be typed and submitted in the Teams chat.
+2.	Empathy and Sincerity in Customer Interactions
+o	Emphasis on sounding genuinely empathetic, especially during cancellation calls.
+o	Role-playing and discussion on how to make apologies sound sincere and not scripted.
+3.	Transparency in Financial Communication
+o	Importance of clearly explaining cancellation fees, refund breakdowns, and direct debit amounts.
+o	Avoiding confusion by giving accurate and complete financial information.
+4.	Active Listening
+o	Addressing issues where agents failed to listen attentively, causing customers to repeat themselves.
+o	Strategies to improve attentiveness, including using whiteboards to jot down key points.
+5.	Technical and Scripting Accuracy
+o	Following the user guide and ensuring scripts are aligned with Guidewire.
+o	Avoiding misinformation, such as stating that card details are stored when they are not.
+6.	Managing Silence and Expectations
+o	Signposting during calls to avoid dead air and reassure customers.
+o	Letting customers know when agents are working on something in the background.
+7.	Monitoring and Performance
+o	Clarification on how monitors affect OT eligibility.
+o	Poor experiences will be escalated and tracked monthly.
+o	Emphasis on behavioral errors over knowledge gaps.
+  Key Takeaways
+•	Empathy must be authentic: Customers can detect insincerity, and it affects their experience.
+•	Transparency is non-negotiable: Especially regarding fees, refunds, and payment structures.
+•	Active listening is critical: Avoid making customers repeat themselves; use tools like whiteboards.
+•	Follow scripts and user guides: Deviations can lead to misinformation and compliance issues.
+•	Signpost effectively: Silence without explanation can lead to customer frustration.
+•	Behavioral errors are the main concern: Not knowledge gaps, which are easier to coach.
+•	Monitors post-September 1st affect OT: Any poor experience will impact eligibility.
+  Action Plans
+1.	Submit feedback for each error discussed in the Teams chat.
+2.	Use whiteboards during calls to capture key customer points.
+3.	Ensure scripting is aligned with Guidewire and user guides.
+4.	Avoid waiving fees without customer input—always quote and wait for a response.
+5.	Improve sincerity in communication—practice authentic responses.
+6.	Monitor wrap and hold times—Treasure will be checking these closely.
+7.	Prepare for stricter quality enforcement—no tolerance for repeat behavioral errors.
+8.	Raise issues for UK visit—billing inconsistencies and other operational concerns.
+  Vital Information
+•	Lauren from the UK team will be visiting to assess operations and gather feedback.
+•	Billing inconsistencies (e.g., unequal direct debits) are a recurring issue and will be escalated.
+•	Team morale and culture are strong, but performance must reflect professionalism.
+•	Treasure emphasized accountability and expects the team to “choose to win.”
+Here’s a detailed breakdown of the errors discussed by each individual during the meeting, along with their understanding, impact, and suggested resolutions:
+  Marcia Apleni
+•	Error: Lack of empathy when a customer called to cancel.
+•	Understanding: QA marked down the agent for not expressing empathy or appreciation for the customer’s business.
+•	Impact: Business impact due to poor customer experience.
+•	Resolution: Say “I’m sorry to hear that” sincerely, and genuinely express concern. Avoid sounding scripted.
+  Mapotla Mothiba
+•	Error 1: Did not advise the customer that the refund included a cancellation fee.
+o	Understanding: Transparency was lacking.
+o	Impact: Customer confusion and potential complaints.
+o	Resolution: Always disclose all fees and explain refund breakdowns.
+•	Error 2: Did not provide a Service Level Agreement (SLA) when advising a refund.
+o	Understanding: SLA helps set expectations for when the refund will reflect.
+o	Impact: Customer uncertainty and possible follow-up calls.
+o	Resolution: Always mention SLA timelines.
+•	Error 3: Customer was annoyed by unclear policy documents (YouDrive setup).
+o	Understanding: Customer frustration due to poor documentation.
+o	Impact: Potential complaint or dissatisfaction.
+o	Resolution: Acknowledge frustration, offer alternatives, and empathize.
+  Thando Skollo
+•	Error: Did not repeat the introduction after a line issue.
+•	Understanding: Customer said “you’re breaking up,” but the agent didn’t repeat or apologize.
+•	Impact: Poor customer experience due to missed information.
+•	Resolution: Apologize, repeat the introduction, and check if the line is better.
+  Thabiso Khuzwayo
+•	Error: Did not listen attentively; customer had to repeat their reason for calling.
+•	Understanding: A lapse in active listening.
+•	Impact: Customer frustration, poor experience.
+•	Resolution: Be mentally prepared before each call, use a whiteboard to jot down key points, and confirm understanding with the customer.
+  Lefa Molefe
+•	Error: Did not inform the customer about a due installment when cancelling.
+•	Understanding: Missed scripting led to lack of clarity.
+•	Impact: Customer may receive chase letters or debt collection notices.
+•	Resolution: Follow the user guide, check billing, and clearly communicate outstanding amounts.
+  Katlego Mafa
+•	Error: Failed to set expectations when going silent during a call.
+•	Understanding: Silence without explanation can make customers feel ignored.
+•	Impact: Customer confusion and impatience.
+•	Resolution: Signpost actions clearly—tell the customer what you’re doing and why.
+  Cyril Nkosi
+•	Error: Did not ask if the DVLA had assigned the personalized number plate.
+•	Understanding: Missed a key scripting step.
+•	Impact: Customer may face legal issues if the plate isn’t properly assigned.
+•	Resolution: Follow the user guide closely and ensure scripting is in sync with Guidewire.
+  Keitumetse Mohono
+•	Error: Gave incorrect installment amounts (claimed they were equal when they weren’t).
+•	Understanding: Miscommunication about direct debit amounts.
+•	Impact: Customer confusion, budgeting issues, potential complaints.
+•	Resolution: Be transparent, show actual installment breakdown, and offer to escalate if needed.
+ 
+  General Notes from Treasure Hlengani
+•	Common Themes:
+o	Most errors were behavioral, not knowledge gaps.
+o	Emphasis on transparency, empathy, and active listening.
+o	Use of whiteboards and scripts is essential.
+o	Poor experiences will now be escalated and tracked monthly.
+o	No tolerance for repeat behavioral errors.
+
+Team meeting / coaching -  03/09/2025 
+ 
+  Coaching Record – Lefa Molefe
+Call Context
+Customer wanted to cancel renewal because they found a premium £200 cheaper elsewhere. They were open to discussion but the call ended with the policy lapsing.
+ 
+  Strengths Observed
+•	Confidence & Tone: Sounded calm, professional, and easy to listen to.
+•	Positive Language: Used polite power words (“thank you so much,” “please”) which created a welcoming feel.
+•	Active Listening: Verbal nods helped show attentiveness.
+•	Energy & Engagement: Peers highlighted your “fire energy” and confidence on the call.
+•	Process Basics: DPA was completed correctly, willingness to assist was clear.
+These are strong foundations. The focus now is to build on these strengths to influence outcomes.
+ 
+  Development & Skill Transfer
+1. Showing Empathy When Customers Mention Cancelling
+•	What happened: You acknowledged the lapse but did not empathize.
+•	Why it matters: Empathy builds trust and shows customers we value them, even if they want to leave. Without it, calls feel transactional.
+•	What to do differently: Use phrases like:
+o	“I’m really sorry to hear you’re thinking of leaving us. Can I check what’s most important to you in your cover before you make a final decision?”
+ 
+2. Turning “Like for Like” Into a Sales Opportunity
+•	What happened: Customer said the rival quote matched our cover, but you did not unpack it.
+•	Why it matters: “Like for like” often isn’t truly identical — limits, exclusions, or features can differ. Exploring this keeps the door open to retention.
+•	What to do differently:
+o	Ask open questions: “What benefits were included in their quote?”
+o	Compare on RDC correctly and highlight where Hastings offers stronger cover or higher limits.
+ 
+3. Probing & Fact-Finding
+•	What happened: You assumed answers instead of asking open-ended questions.
+•	Why it matters: Probing uncovers pain points (e.g., cover limits, extras, service quality) and gives you material to counter the price objection.
+•	What to do differently: Replace assumptions with questions like:
+o	“Aside from the price, what do you value most in your insurance?”
+o	“Have you checked whether their cover includes…?”
+ 
+4. Using Renewal Price Similarity to Create Doubt
+•	What happened: You mentioned our invite wasn’t far from last year’s price, but didn’t use it to challenge the rival £200 difference.
+•	Why it matters: This is a natural way to cast doubt and strengthen your position.
+•	What to do differently:
+o	“It’s interesting that your renewal hasn’t gone up much from last year, yet another provider is £200 cheaper. That’s quite unusual — would you like me to help check what might be missing from their quote?”
+ 
+5. Process & Compliance Accuracy
+•	What happened:
+o	RDC details not updated fully.
+o	Summary statement not read.
+o	Helpful statements not read verbatim.
+o	Didn’t start by confirming full customer name.
+o	Missed “other specified items” scripting.
+•	Why it matters: These are compliance requirements — missing them risks penalties and audit fails.
+•	What to do differently: Follow the script in order, read verbatim where required, and update all systems accurately during comparison.
+ 
+6. Professionalism & Delivery
+•	What happened: Throat clearing/coughing, some dead air.
+•	Why it matters: Small habits can break flow and sound unprofessional.
+•	What to do differently: Mute when coughing, use recap statements to fill silence:
+o	“Let me just pull that detail up for you, while I do that…”
+ 
+  Clear Action Plan for Lefa
+1.	Always empathize first when a customer mentions cancelling (acknowledge their concern, show value).
+2.	Probe deeper using open-ended questions to fully explore rival quotes and customer needs.
+3.	Unpack “like for like” by updating RDC correctly and highlighting Hastings’ stronger features/limits.
+4.	Challenge competitor pricing by linking it to renewal stability and creating doubt about missing benefits.
+5.	Follow process correctly:
+o	Ask full customer name at the start.
+o	Read summary/helpful statements verbatim.
+o	Complete all fact-find items, including “other specified items.”
+6.	Polish delivery: Control habits (throat clearing), avoid dead air by filling space with reassurance or updates.
+ 
+  Expectation
+By applying these steps, you will transfer your natural confidence and tone into persuasive, compliant calls that not only engage customers but also convert lapses into saves.
+
+
+Please find below AHT & SRR call outs
+ 
+ 
+AHT:
+•	Web match calls - Extended hold due to requiring TL to assist with checks.
+•	Renewal calls with a change of address that had to take place on the in-force policy first then on the renewal.
+•	Claims query while the policy is up for renewal. However, no assistance as Advantage was not available for claims query just new claims registration only call took slightly longer.
+•	Underwriter referrals – underwriters not being available over the weekend and customer not understanding.
+•	Escalation due to payment issues with customer details.
+•	Incorrect dispositions
+ 
+ 
+SRR:
+•	Adamant lapse where the customer wasn’t happy with not being able to lapse the renewal online.
+•	Property sold and not replaced .
+•	Not offering a rebroke even when customer informed us that they are looking at the bronze cover with policy expert. Missed opportunity.
+•	Not selling on benefits mainly focusing on price.
+•	Unable to match price due to no discount.
+•	Already purchased customer allowed agents to go through details but due to no discount unable to match or counteroffer.
+•	Customer not keen on discussing their renewal.
+
+AHT & Operational Challenges
+ 
+•	Post call admin – Generating and sending documents to customer as per their request.
+•	Hold for Home emergency – Customers needing to be warm transferred though.
+•	Dealing with Web match calls, taking longer on calls due to requiring TL assistance. We see a spike in these types of calls over a weekend due to needing to look into the actual quote and the renewal with a TL as RDC screen doesn’t populate all differences and prices not matching so needs a closer look into these.
+•	High wrap due to web match
+•	Long hold customer was confused on whether to change the address now before policy renews or after. Had to probe on when exactly they signed contract. Had to first complete change of address on existing policy and then filter information to the renewal.
+•	Loading customer support flag.
+•	Customer hung up whilst still discussing policy details. Had to leave notes after the call as this was a COA.
+•	Need to get documents sent via eptica.
+ 
+Cancellation reasons:
+ 
+•	Taken up calls – Effort applied on calls from reviews and dip checks completed. Customers insistent on lapsing policy.
+•	There was a clear lapse identified. PH remains unwilling to disclose further information. The pricing statement has been read, but the customer is not receptive to hearing it.
+ 
+•	Customers mainly unhappy about the price increase and not interested in looking at any updated on the call.
+•	Competitor- We are more expensive than the rival offer but parts of the RCF call flow not implemented – RDC checks not completed.
+•	Competitor – CLT updated based on details provided on call but CLT never rerated and no updated offer has been presented to customer. Best price not offered.
+•	Customer has called in and spoken to someone already and we have reassured that we have given our best price already and they are insistent that they just want to lapse.
+•	On calls where we have an adamant lapse – Helpful statement discussed but further elaboration into why there might be differences such as the details that may differ or even the cover to set doubt and displaying a willingness to take them through the process in a timely manner can be improved. Better buy in creatin on calls.
+•	Opt in policy renewals – Customers not looking to make payments with us for the renewal to day and only looking to do so at renewal date of policy. – Discussion held on call with customer but further education around what will happen if we do take payment today can be improved on to try and secure payment on the day.
+•	Helpful statement not addressed in full, benefit stacking can be improved to show the value we offer by painting a picture.
+•	Manual checks being completed on the call – No quotes found and the claim question being missed as this may also impact the price of the renewal and the offer the customer may be getting from the rival insurer if not added on.
+•	Call flow adherence not implemented on all calls.
+•	Already bought customers willing to give us an opportunity to get them a better price. After updates price was still higher, explored on benefits PH still choose to cancel. Should have given a cheaper price in the first place.
+•	Cheaper with Tesco with Top cash back.
+•	Main reason for cancellation was Already Bought.
+
+Lefa
+Call 1: Already Bought Elsewhere – Adamant Lapse
+CXone Player
+The customer called in to lapse their renewal, stating they had already taken up another policy elsewhere.
+•	Lefa showed great willingness to assist, with excellent energy and tone throughout the call.
+•	He empathized appropriately.
+•	Used helpful statements to try and obtain buy-in.
+•	Applied power words such as “thank you” and “please.”
+•	Took ownership of the call, stating: “I would love for you to stay with us another year.”
+•	Set clear expectations throughout.
+•	All scripting was read accordingly.
+Outcome:
+•	The customer was adamant about lapsing and did not wish to receive a revised quote.
+•	They were also uncomfortable providing rival insurer quotes.
+•	Due to the lack of disclosure, it was difficult to obtain a lower revised quote. After completing CLT, the premium increased slightly from £1027.52 to £1028.26.
+•	Continuing further would have felt forceful, as the customer clearly did not wish to discuss the renewal.
+•	Effort was applied; the customer was simply firm in their decision.
+Call 2: Already Bought Elsewhere – Adamant Lapse
+CXone Player
+The customer called in to lapse their renewal, having already taken up another policy elsewhere. They did not wish to discuss the renewal or share any competitor details.
+•	Lefa showed great willingness from the start, with excellent energy and tone.
+•	He immediately showed empathy, saying: “I’m sorry to hear that you wish to lapse your renewal.”
+•	He remained polite and sincere throughout the call.
+Outcome:
+•	When Lefa attempted to obtain buy-in using helpful statements, the customer cut him off and politely said: “I’m not interested.”
+•	Lefa still attempted to obtain the rival insurer’s premium, but the customer made it clear they were not willing to share any details.
+•	CLT was completed with a rival price of £0, resulting in no change to the premium.
+•	Effort was applied.
+Call 3: Third Party Calling to Lapse Policy
+CXone Player
+A third party called in to lapse their grandmother’s policy, as she is hard of hearing. This made the discussion difficult, as the policyholder couldn’t speak directly. The third party had to ask the policyholder questions and relay the responses to Lefa.
+•	Lefa was sincere and respectful throughout the call.
+•	He showed great willingness to assist and even tried to find out if there were any other queries while completing CLT.
+•	CLT was filled in correctly.
+•	The customer provided the rival insurer’s price but couldn’t remember the competitor’s name.
+•	Lefa used this information to obtain a revised quote and also checked RDC for any details that could be used to create doubt, but no differences were found.
+•	Effort was applied; Customer was still keen to decline renewal after revised quote
+Thando
+Call 1: Cheaper with Us – Adamant Lapse
+CXone Player
+The customer called in to lapse their renewal, stating they found a cheaper HE brand while they had an HD with us. The customer did not want to hear about our processes and just wanted the renewal lapsed.
+•	Thando empathized from the start, saying: “That’s very sad to hear.”
+•	Used power words such as “please” and “thank you.”
+•	Acknowledged and apologized for the IVR issue, as the customer was unhappy that details weren’t populating.
+•	Thando remained sincere and respectful throughout the call.
+Outcome:
+•	Thando attempted to obtain buy-in twice, but the customer cut him off both times, stating they had a lot to do and just wanted the renewal lapsed.
+Development:
+•	Thando should still attempt to complete CLT, as this could potentially offer a premium that might entice the customer to engage further. Completing CLT also helps the business improve pricing based on captured information.
+Call 2: Already Bought Elsewhere – Adamant Lapse
+CXone Player
+The customer called in to lapse their renewal, stating they found a cheaper option elsewhere. They made it clear they did not wish to renew or discuss further.
+•	Great tone and energy.
+•	Effective use of verbal nods.
+•	Strong use of power words, which added a positive feel to the call.
+•	Good implementation of helpful statements.
+Outcome:
+•	Thando attempted to obtain buy-in twice, but the customer stated they needed to leave the call and preferred to lapse.
+•	The customer refused to share rival insurer details, saying it was none of Thando’s business.
+•	Despite this, Thando handled the objection well, especially when the customer mentioned they didn’t want to pay a cancellation fee elsewhere.
+Development:
+•	Thando should still attempt to complete CLT, as this could potentially offer a premium that might entice the customer to engage further.
+Thabiso :
+Call 1 - chatty customer 
+
+1 hour  call 
+
+CXone Player
+Sep 2, 2025 8:23:40 AM
+01:08:37
+22:51 Hod 
+Customer was calling in to ask about their youdrive policy , they mentioned they werent seeing their trip from yesterday, Thabiso then explaiend that it wouldnt show immediately and she would have to wait 24 hours for this to show . Customer was happy with answer. 
+Customer also then explained how they were having issues with myaccout and werent getting a link to login, customer had flagged this adn wasnt happy that this hasnt been resolved. Thabiso was empathetic and mentioned he can definitely have a look at the ticket. 
+
+Thabisop then placed csutomer on hold to contact TTT 
+He was asking if they could find driving data from yesteraday  ( this would answer custoemrs first quesry) it took 5 minutes to reach an agent , the agent gave an answer tha there werent any trips foor the previous day and the chat closed.
+He then checked for the ticket numebr relatgint ot he login issue but couldnt find it on service now 
+But Thabiso still went back on TTT chat again to ask the same question of which prolonged the hold which took another 5 minutes, this hold wasnt necessary . 
+But thabiso did also take the opportunity to ask wbout the login issue but this could have been asked to the inital agent so he doesnt have such a lengthy call. 
+In conclusion, this hold could have been shorter, Thabiso wasnt efficient on this call.  
+
+After the hold he reverted back tot he customer with the fix the TTT agents  suggested , he was chatting to the team and also helping the csutomer fix the login issue. |
+Customer wasnt tech savvy,so he had to guide her step by step on how to uninstall adn install a app, he had to guide her through all of this , he used co pilot to try adn get the exact steps to assist custoer further 
+
+In conclusion : 
+This call was long because he was trying to assist the csutoemr to fix their login issue , customer was just very confused and not tech savy, Thabiso had to keep going backa nd forth with TTT to help the csutoemr . Customer didnt have anyone else to assist them but thabiso kept validating the customer that he is really trying to help but cant see exactly what they have on their end. Customer then also switched devices to try again . But later on the customer just wanted to chat , they had a great covnersation about South Africa. This was just a chatty csutomer that needed extra support. Thabiso only wasted time when contacting TTT on hold as he asked the same thing twice. 
+
+
+Call 2: 
+
+CXone Player
+37:42 call 
+21 mins hold 
+Contact ID: 681874323636
+ep 2, 2025 1:35:30 PM 
+Customer was calling in because he jsut recently recieved a speeding ticket which he is trying to appeal. He wanted to know if we could give him his data so he can use this to discpute .Thabiso shwoed great willingness to assist and asked for the details he is looking for so he can cehck with the TTT team as he wasnt sure if we can get these details. 
+
+He hen placde scutoemr on hod for 5 mins : he contacted TTT to get mroe info and amnaged to get the details of the trip of which TTT confirmed that if he wants this data sent to him he would need to log a GDPR request to get this information . He reverted back to the csutoerm and ifnormed them of this and placed them on hold again
+
+Second hold ( 5 mins ) 
+On the second hold he was capturing a GDPR request for csutoerm to recieve all this data but had some errors on the screen but managed to log this accordingly. 
+Last hold ( 2 mins )
+On the last hold he had to confirm how long it takes for the csutoerm to recieve the GDPR request. Answer to this was it takes up to  30 days for csutoemr to recieve the data .
+
+Conclusin: Thabiso was very helpful and ensured he answers allt hec sutoenmrs questions, the amin issue was the logging onn a GDPR request, if Thabiso was aware of this ,t he initial hold wouldnt have been necessary as he would have just requested for the GDPR without having to first speak to TTT regarding this. But apart from that ,csutoemr had alot of questions adn this made the call long, Thabiso also just needs to ensure he summarizes his answers as he tends to repeat the same things but in a different way . 
+Call 3 : 
+CXone Player
+Contact ID: 681986169374
+Sep 3, 2025 5:22:41 PM
+48.28 min call 
+21 min hold 
+Thabiso read the HAstings Online scripting even though this was a van policy, he eneds to be aware that with the van policy doesnt have an online policy , he also had the document for deflevction open adn was trying to follow it but in this instance it was necessary and hindered his attentiveness on the call as he was trying to folow the delfection uide. 
+
+Customer was calling I to change drivers ont heir policy and also wanted to ask about the type of van they might also e getting soon. So customer wanted to know if a certain modification would imapct their policy. Thabiso wasnt sure of the modification ( bulk head ) o he probed further to understand what it was. He then mentioned he would defienklty have alook into this but he can first assist with the quote for adding a driver , this took some time as the customer also had to also update their address. 
+
+Thabiso placed customer on hold to run the quote and silmatanuesly also ask seniors about the bulk head question the csutoerm had and if we would offer cover for it,this took 7 minutes to speak to them of which they emntioned we would have to cehck with U/w to see if we can offer cover for it since we dont have it as a modification  
+Thabiso then revert back to the csutomer on the way forward regarding the modification, he then also informed the csutoemr of the quote but then customer highlighted that she was actually making this changes due to the death of her husband and finds it unfair that we are charging. Thasbiso empathized extremeely well,e he apologized that he didn't pick this up when he was uopdating her marital status and feels like he could have done better. Customer appreciatreed this . 
+Thabiso then placed csutoemr on hold for the 3rd time and this was for 10 minutes : he explained that he had to speak to his manager regarding this and asked for the amount to be written off of which he ahs now actioend accoridngly. He then confirmed that the change has now been ammended, the customer then also expressed that she really apreciates what he did for her and wrapped  up the call. 
+
+
+Maps
+Call: Already Bought Elsewhere – Adamant Lapse
+
+Contact ID: 682265377049
+Date: Sep 7, 2025 – 9:19 AM
+Scenario:
+Customer called in to lapse their renewal, stating they had already taken up a cheaper policy with another provider.
+Strengths:
+•	Maps empathized appropriately, saying: “That’s very sad to hear.”
+•	Great use of verbal nods, showing active listening.
+•	Used power words such as “kindly” and “thank you,” which added a positive tone to the call.
+•	Attempted helpful statements to obtain buy-in.
+Opportunities for Improvement:
+•	After reading the helpful statements, the customer reiterated their intent to cancel. While the customer wasn’t difficult, it would have been beneficial to check RDC for any discrepancies that could be used to create doubt and re-engage the customer.
+•	Missed opportunity to probe further into why the customer chose Churchill over us. The customer was forthcoming with details, and this could have been leveraged to better understand their decision-making and potentially retain them.
+Suggested Approach:
+“Jordan, I honestly wouldn’t want you to leave with a sour taste in your mouth. I pride myself on ensuring my customers are covered correctly for what they need—not just what they want. Your home holds a lot of sentimental value and is an investment. I won’t take much of your time—you have nothing to lose at this point.”
+Technical Issue:
+•	The renewal did not have a “Confirm Details” option.
+•	Maps had to run a dummy MTA to access the renewal. After completing it, the premium increased from £123.79 to £135.17.
+ 
+Keitu
+Call 1: Already Bought Elsewhere – Adamant Lapse
+CXone Player
+Duration: 04:12
+Date: Sep 7, 2025 – 10:44 AM
+Scenario:
+Customer called to lapse their renewal, stating they had already purchased a policy elsewhere but couldn’t recall the exact premium.
+Strengths:
+•	Keitu was empathetic and respectful throughout.
+•	Quickly identified that the customer was still logged into the app, which made navigation difficult.
+•	Used helpful statements to attempt buy-in, but the customer declined to engage and expressed frustration about needing to call in to lapse.
+Process Adherence:
+•	CLT was captured correctly.
+•	Keitu provided the best price before ending the call.
+Opportunity for Improvement:
+•	After saying goodbye, Keitu didn’t notice the customer was still on the line. Please be mindful when ending calls—ensure the customer hangs up first. If anything is said after the call ends, especially in a native language, it could be overheard and negatively impact the customer experience.
+Technical Issue:
+•	Renewal quote was on a suspended workflow; Keitu had to run a dummy MTA to access it.
+Conclusion: Effort was applied appropriately. The customer simply did not wish to discuss further.
+ 
+Call 2: Cheaper Elsewhere – Price Concern
+CXone Player
+Contact ID: 682265467884
+Date: Sep 7, 2025 – 11:40 AM
+Scenario:
+Customer’s daughter called on behalf of her mother, stating they found a quote £80 cheaper elsewhere and wanted to discuss the renewal.
+Strengths:
+•	Keitu showed willingness to assist and expressed a desire to retain the customer.
+•	Set clear expectations and explained that she couldn’t promise to match the price due to potential differences in terms and cover.
+•	Handled security checks professionally when the customer was hesitant to provide a DOB.
+•	Fact-finding was done thoroughly; Keitu probed well to ensure mutual understanding.
+•	Used power words (“thank you,” “please”) and verbal nods to show active listening.
+•	RDC was completed correctly.
+•	Took ownership and emphasized policy benefits, explaining how these are considered when generating quotes.
+Outcome:
+•	A revised quote was offered, £40 more than the competitor’s.
+•	The third party relayed this to the policyholder, who was unhappy and chose to lapse.
+•	The policyholder expressed disappointment that Keitu didn’t try harder to retain her, especially since she is a pensioner.
+•	Keitu apologized and explained our process, but the customer still felt we didn’t make enough effort to match the competitor’s premium.
+Technical Issue:
+•	Line was breaking at the start of the call.
+Conclusion: Effort was applied, and Keitu remained sincere. However, the customer was unhappy that we couldn’t match the competitor’s price, especially given her pensioner status.
+

@@ -1,0 +1,13 @@
+cd "/Users/rtwaynethedon/Inview AI/inview-ai" && npm run dev
+
+# Kill any process on port 3000
+lsof -ti:3000 | xargs kill -9
+
+# Or kill all node processes (be careful!)
+pkill -9 node
+
+# Remove lock file
+rm -rf .next/dev/lock
+
+# Restart dev server
+npm run dev
